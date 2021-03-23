@@ -1,1 +1,1 @@
-Typescript template for with typescript, prettier and snowpack
+Typescript boilerplate for plain page with typescript, prettier and snowpack setup
