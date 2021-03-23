@@ -1,0 +1,1 @@
+Typescript template for with typescript, prettier and snowpack
